@@ -1,0 +1,7 @@
+1. To print the largest/smallest of three numbers.
+2. To print factorial of a number using function.
+3. To count no of vowels in a string that was given as input by use.
+4. Write a program on LIST to perform the operation like insertion and deletion of elements.
+5. To display even elements from the list of integers.
+6. To merge two different lists.
+7. To swap two elements in a list.
